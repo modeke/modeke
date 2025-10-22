@@ -112,24 +112,6 @@ I believe technology is a powerful tool for solving **health, business, and ever
 
 </div>
 
-<br>
-
-## 🤝 Let's Collaborate
-
-I'm always open to working on exciting projects in:
-
-- 🧠 **Data Science & Machine Learning**
-- 🏥 **Healthcare Analytics & Digital Health Systems**
-- 🌱 **Agritech & Sustainable Innovation**
-- 📊 **Business Intelligence & Impact Measurement**
-- 💡 **Health Informatics & EMR Systems**
-
-Feel free to reach out if you want to collaborate, chat about data, discuss health tech, or explore innovative solutions to everyday problems!
-
-<br>
-
----
-
 <div align="center">
 
 ### 💬 *"Turning data into decisions, insights into impact."*
