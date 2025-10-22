@@ -117,10 +117,6 @@ Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
 
 <div align="center">
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=modeke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=modeke&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=modeke&theme=tokyonight&hide_border=true)
 
 </div>
@@ -129,7 +125,6 @@ Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
 
 ### 💬 *"Turning data into decisions, insights into impact."*
 
-### 🌟 *Learning, building, and solving — one problem at a time.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=modeke&color=blueviolet&style=flat-square&label=Profile+Views)
 
