@@ -25,28 +25,28 @@ I believe technology is a powerful tool for solving **health, business, and ever
 <br>
 
 ## 🎯 What I Do
-```python
-current_role = {
-    "environment": "Health Systems Strengthening",
-    "tools": ["UgandaEMR (OpenMRS)", "DHIS2", "Health Data Analytics"],
-    "focus": "Optimizing clinic processes & managing health data at scale"
-}
 
-learning_journey = {
-    "data_science": ["Machine Learning", "Predictive Modeling", "Statistical Analysis"],
-    "engineering": ["ETL Pipelines", "Data Architecture", "Cloud Solutions"],
-    "analytics": ["Business Intelligence", "Data Visualization", "M&E Frameworks"],
-    "domain_expertise": ["Healthcare Systems", "Agritech", "Impact Measurement"]
-}
+### 💻 Current Role & Focus
+* **Environment:** Health Systems Strengthening
+* **Tools:** UgandaEMR (OpenMRS), DHIS2, Health Data Analytics
+* **Focus:** Optimizing clinic processes & managing health data at scale
 
-mission = "Using technology to solve health, business, and everyday human problems"
-```
+---
+
+### 🌱 Learning Journey
+* **Data Science:** Machine Learning, Predictive Modeling, Statistical Analysis
+* **Engineering:** ETL Pipelines, Data Architecture, Cloud Solutions
+* **Analytics:** Business Intelligence, Data Visualization, M&E Frameworks
+* **Domain Expertise:** Healthcare Systems, Agritech, Impact Measurement
+
+---
+
+### 🚀 Mission
+> **Using technology to solve health, business, and everyday human problems.**
 
 <br>
 
 ## 🛠️ Tech Stack
-
-**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -54,20 +54,12 @@ mission = "Using technology to solve health, business, and everyday human proble
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**Health Tech & Platforms**
-
-![OpenMRS](https://img.shields.io/badge/-OpenMRS%20(UgandaEMR)-00463F?style=flat-square&logoColor=white)
+![OpenMRS](https://img.shields.io/badge/-OpenMRS-00463F?style=flat-square&logoColor=white)
 ![DHIS2](https://img.shields.io/badge/-DHIS2-0080FF?style=flat-square&logoColor=white)
-![ODK](https://img.shields.io/badge/-ODK-FF9800?style=flat-square&logoColor=white)
-![Kobo Toolbox](https://img.shields.io/badge/-Kobo%20Toolbox-4CAF50?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Tools & Infrastructure**
 
@@ -146,6 +138,5 @@ Feel free to reach out if you want to collaborate, chat about data, discuss heal
 
 ![Profile Views](https://komarev.com/ghpvc/?username=modeke&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**⭐ If you find my work interesting, consider giving a star to my repositories!**
 
 </div>
