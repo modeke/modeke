@@ -1,4 +1,4 @@
-<div align="center">
+<div="center">
 
 # Mike Odeke
 
@@ -7,10 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/modeke)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MikeOdeke)
 
-
 </div>
-
----
 
 ## 👤 About Me
 
@@ -23,7 +20,6 @@ I believe technology is a powerful tool for solving **health, business, and ever
 > *"I'm not there yet, but I'm determined to get there — one model, one insight, one solution at a time."*
 
 <br>
-
 ## 🎯 What I Do
 
 ### 💻 Current Role & Focus
@@ -31,7 +27,6 @@ I believe technology is a powerful tool for solving **health, business, and ever
 * **Tools:** UgandaEMR (OpenMRS), DHIS2, Health Data Analytics
 * **Focus:** Optimizing clinic processes & managing health data at scale
 
----
 
 ### 🌱 Learning Journey
 * **Data Science:** Machine Learning, Predictive Modeling, Statistical Analysis
@@ -74,7 +69,7 @@ I believe technology is a powerful tool for solving **health, business, and ever
 
 <table>
 <tr>
-<td width="50%">
+<td ="50%">
 
 ### 🩺 Healthcare Risk Predictor
 ML model identifying high-risk patients for proactive care interventions.
@@ -82,13 +77,12 @@ ML model identifying high-risk patients for proactive care interventions.
 **Stack:** Python • Scikit-learn • SQL
 
 </td>
-<td width="50%">
+<td="50%">
 
 ### 🌾 Agribusiness Platform
 Data management system for poultry operations with real-time analytics.
 
 **Stack:** Python • Business Intelligence
-
 </td>
 </tr>
 <tr>
