@@ -70,34 +70,46 @@ I believe technology is a powerful tool for solving **health, business, and ever
 
 <br>
 
-## 💼 Featured Projects
+### 💼 Featured Projects
 
-### 🩺 Healthcare Patient Risk Predictor
-> Predictive ML model that identifies high-risk patients using historical health data, enabling proactive interventions and improved care outcomes.
+<table>
+<tr>
+<td width="50%">
 
-**Stack:** Python • Scikit-learn • Pandas • SQL • Machine Learning
+### 🩺 Healthcare Risk Predictor
+ML model identifying high-risk patients for proactive care interventions.
 
----
+**Stack:** Python • Scikit-learn • SQL
 
-### 🌾 Agribusiness Optimization Platform
-> End-to-end data management system for modern farming operations, specializing in poultry management with real-time analytics for profitability and sustainability.
+</td>
+<td width="50%">
 
-**Stack:** Python • Data Analytics • Business Intelligence
+### 🌾 Agribusiness Platform
+Data management system for poultry operations with real-time analytics.
 
----
+**Stack:** Python • Business Intelligence
 
-### 📊 Healthcare Analytics Dashboard
-> Interactive BI dashboard providing executives with real-time insights into patient metrics, operational efficiency, and resource allocation.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Stack:** Power BI • SQL • Data Modeling • Visualization
+### 📊 Analytics Dashboard
+Interactive BI dashboard for patient metrics and operational insights.
 
----
+**Stack:** Power BI • SQL • Visualization
 
-### 🏥 Health Systems Data Integration
-> Streamlining clinic workflows through UgandaEMR (OpenMRS) and integrating DHIS2 for comprehensive health data management and reporting.
+</td>
+<td width="50%">
 
-**Stack:** UgandaEMR • DHIS2 • Health Informatics • Data Management
+### 🏥 Health Systems Integration
+Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
 
+**Stack:** OpenMRS • DHIS2 • Health Informatics
+
+</td>
+</tr>
+</table>
 <br>
 
 ## 📈 GitHub Stats
