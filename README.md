@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-I'm a **self-learning Data Scientist, Machine Learning Engineer, and Data Engineer** passionate about turning complex data into actionable insights that drive real-world impact.
+I'm a **self-taught Data Scientist, Machine Learning Engineer, and Data Engineer** passionate about turning complex data into actionable insights that drive real-world impact.
 
 Currently, I work in a **Health Systems Strengthening environment**, where I leverage **UgandaEMR (OpenMRS)** to deliver and optimize clinic processes, and **DHIS2-based systems** to manage comprehensive health data across facilities. My work spans **machine learning, predictive analytics, and agribusiness innovation** — helping organizations in **healthcare** and **sustainable agriculture** make smarter, data-driven decisions.
 
