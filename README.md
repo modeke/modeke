@@ -51,8 +51,8 @@ An **interactive reporting platform** visualizing patient and operational metric
 I’m always excited to collaborate on projects in:  
 **Data Science • AI & ML • Health Analytics • Agritech & Innovation**
 
-🔗 **LinkedIn:** [linkedin.com/in/mike-odeke](https://linkedin.com/modeke)  
-🐙 **GitHub:** [github.com/yourusername](https://github.com/modeke)
+🔗 **X:** [X.com/MikeOdeke](https://linkedin.com/modeke)  
+🐙 **GitHub:** [github.com/modeke](https://github.com/modeke)
 
 ---
 
