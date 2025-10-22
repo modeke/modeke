@@ -111,23 +111,6 @@ Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
 </tr>
 </table>
 
-### 📊 Analytics Dashboard
-Interactive BI dashboard for patient metrics and operational insights.
-
-**Stack:** Power BI • SQL • Visualization
-
-</td>
-<td width="50%">
-
-### 🏥 Health Systems Integration
-Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
-
-**Stack:** OpenMRS • DHIS2 • Health Informatics
-
-</td>
-</tr>
-</table>
-
 <br>
 
 ## 📈 GitHub Stats
