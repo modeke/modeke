@@ -36,7 +36,9 @@ Building expertise in **Machine Learning**, **Data Engineering**, **Healthcare A
 
 **Core Skills:**  
 `Machine Learning` • `Predictive Modeling` • `ETL Pipelines` • `Data Architecture` • `Business Intelligence` • `Data Visualization` • `Health Informatics` • `Impact Measurement`
+
 ---
+
 <br>
 
 ## 🛠️ Tech Stack
