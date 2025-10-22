@@ -1,4 +1,4 @@
-<div="center">
+<div align="center">
 
 # Mike Odeke
 
@@ -7,7 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/modeke)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MikeOdeke)
 
+
 </div>
+
+---
 
 ## 👤 About Me
 
@@ -20,6 +23,7 @@ I believe technology is a powerful tool for solving **health, business, and ever
 > *"I'm not there yet, but I'm determined to get there — one model, one insight, one solution at a time."*
 
 <br>
+
 ## 🎯 What I Do
 
 ### 💻 Current Role & Focus
@@ -27,6 +31,7 @@ I believe technology is a powerful tool for solving **health, business, and ever
 * **Tools:** UgandaEMR (OpenMRS), DHIS2, Health Data Analytics
 * **Focus:** Optimizing clinic processes & managing health data at scale
 
+---
 
 ### 🌱 Learning Journey
 * **Data Science:** Machine Learning, Predictive Modeling, Statistical Analysis
@@ -65,45 +70,34 @@ I believe technology is a powerful tool for solving **health, business, and ever
 
 <br>
 
-### 💼 Featured Projects
+## 💼 Featured Projects
 
-<table>
-<tr>
-<td ="50%">
+### 🩺 Healthcare Patient Risk Predictor
+> Predictive ML model that identifies high-risk patients using historical health data, enabling proactive interventions and improved care outcomes.
 
-### 🩺 Healthcare Risk Predictor
-ML model identifying high-risk patients for proactive care interventions.
+**Stack:** Python • Scikit-learn • Pandas • SQL • Machine Learning
 
-**Stack:** Python • Scikit-learn • SQL
+---
 
-</td>
-<td="50%">
+### 🌾 Agribusiness Optimization Platform
+> End-to-end data management system for modern farming operations, specializing in poultry management with real-time analytics for profitability and sustainability.
 
-### 🌾 Agribusiness Platform
-Data management system for poultry operations with real-time analytics.
+**Stack:** Python • Data Analytics • Business Intelligence
 
-**Stack:** Python • Business Intelligence
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### 📊 Analytics Dashboard
-Interactive BI dashboard for patient metrics and operational insights.
+### 📊 Healthcare Analytics Dashboard
+> Interactive BI dashboard providing executives with real-time insights into patient metrics, operational efficiency, and resource allocation.
 
-**Stack:** Power BI • SQL • Visualization
+**Stack:** Power BI • SQL • Data Modeling • Visualization
 
-</td>
-<td width="50%">
+---
 
-### 🏥 Health Systems Integration
-Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
+### 🏥 Health Systems Data Integration
+> Streamlining clinic workflows through UgandaEMR (OpenMRS) and integrating DHIS2 for comprehensive health data management and reporting.
 
-**Stack:** OpenMRS • DHIS2 • Health Informatics
+**Stack:** UgandaEMR • DHIS2 • Health Informatics • Data Management
 
-</td>
-</tr>
-</table>
 <br>
 
 ## 📈 GitHub Stats
