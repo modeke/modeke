@@ -2,11 +2,11 @@
 
 # Mike Odeke
 
-### Data Scientist | AI/ML Engineer | Agribusiness Innovator
+### Data Scientist | AI & ML Engineer | Agribusiness Innovator
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/modeke)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MikeOdeke)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 
 </div>
 
