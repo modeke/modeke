@@ -26,18 +26,16 @@ I believe technology is a powerful tool for solving **health, business, and ever
 
 ## 🎯 What I Do
 
-### 💻 Current Role & Focus
-* **Environment:** Health Systems Strengthening
-* **Tools:** UgandaEMR (OpenMRS), DHIS2, Health Data Analytics
-* **Focus:** Optimizing clinic processes & managing health data at scale
+**💻 Current Role:** Health Systems Strengthening  
+Working with **UgandaEMR (OpenMRS)** and **DHIS2** to optimize clinic processes and manage health data at scale.
+
+**🌱 Learning Journey:** Self-taught Data Scientist & ML Engineer  
+Building expertise in **Machine Learning**, **Data Engineering**, **Healthcare Analytics**, and **Agritech Innovation**.
 
 ---
 
-### 🌱 Learning Journey
-* **Data Science:** Machine Learning, Predictive Modeling, Statistical Analysis
-* **Engineering:** ETL Pipelines, Data Architecture, Cloud Solutions
-* **Analytics:** Business Intelligence, Data Visualization, M&E Frameworks
-* **Domain Expertise:** Healthcare Systems, Agritech, Impact Measurement
+**Core Skills:**  
+`Machine Learning` • `Predictive Modeling` • `ETL Pipelines` • `Data Architecture` • `Business Intelligence` • `Data Visualization` • `Health Informatics` • `Impact Measurement`
 
 ---
 
