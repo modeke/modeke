@@ -70,11 +70,11 @@ I believe technology is a powerful tool for solving **health, business, and ever
 
 <br>
 
-## 💼 Featured Projects
+### 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" bgcolor="#E8F4F8">
 
 ### 🩺 Healthcare Risk Predictor
 ML model identifying high-risk patients for proactive care interventions.
@@ -82,7 +82,7 @@ ML model identifying high-risk patients for proactive care interventions.
 **Stack:** Python • Scikit-learn • SQL
 
 </td>
-<td width="50%">
+<td width="50%" bgcolor="#FFF4E6">
 
 ### 🌾 Agribusiness Platform
 Data management system for poultry operations with real-time analytics.
@@ -92,7 +92,24 @@ Data management system for poultry operations with real-time analytics.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" bgcolor="#F0F8FF">
+
+### 📊 Analytics Dashboard
+Interactive BI dashboard for patient metrics and operational insights.
+
+**Stack:** Power BI • SQL • Visualization
+
+</td>
+<td width="50%" bgcolor="#F0FFF4">
+
+### 🏥 Health Systems Integration
+Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
+
+**Stack:** OpenMRS • DHIS2 • Health Informatics
+
+</td>
+</tr>
+</table>
 
 ### 📊 Analytics Dashboard
 Interactive BI dashboard for patient metrics and operational insights.
