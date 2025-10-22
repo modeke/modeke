@@ -36,12 +36,7 @@ Building expertise in **Machine Learning**, **Data Engineering**, **Healthcare A
 
 **Core Skills:**  
 `Machine Learning` • `Predictive Modeling` • `ETL Pipelines` • `Data Architecture` • `Business Intelligence` • `Data Visualization` • `Health Informatics` • `Impact Measurement`
-
 ---
-
-### 🚀 Mission
-> **Using technology to solve health, business, and everyday human problems.**
-
 <br>
 
 ## 🛠️ Tech Stack
@@ -111,7 +106,7 @@ Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
 
 <br>
 
-## 📈 GitHub Stats
+## 📈 Platform Usage Stats
 
 <div align="center">
 
