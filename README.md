@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mike Odeke <img src="https://flagcdn.com/w20/ug.png" width="25"/>
+# Mike Odeke <img src="https://flagcdn.com/ug.svg" width="30" alt="Ugandan Flag">
 
 
 ### Data Scientist | AI & ML Engineer | Agribusiness Innovator
