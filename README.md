@@ -3,10 +3,11 @@
 # Mike Odeke <img src="https://flagcdn.com/ug.svg" width="30" alt="Ugandan Flag">
 
 
-### Data Scientist | AI & ML Engineer | Agribusiness Innovator
+### Data Scientist | AI & ML Engineer | Agribusiness Innovator.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/modeke)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MikeOdeke)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/modeke)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MikeOdeke)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=safari&logoColor=white)](https://yourwebsite.com)
 
 
 </div>
