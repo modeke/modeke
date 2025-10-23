@@ -102,8 +102,21 @@ Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
 </table>
 
 <br>
+---
+<div align="center">
 
-## 📈 Platform Usage Stats
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/modeke)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MikeOdeke)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=safari&logoColor=white)](https://yourwebsite.com)
+
+
+**Open to collaborating on:** Data Science • Healthcare Analytics • Agritech • ML Engineering
+
+</div>
+
+## 📈 GitHub Stats
 
 <div align="center">
 
