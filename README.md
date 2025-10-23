@@ -126,7 +126,7 @@ Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
 
 <div align="center">
 
-### 💬 *"Turning data into decisions, insights into impact."*
+### 💬 *"Turning complex data into the actionable insights that Power real change."*
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=modeke&color=blueviolet&style=flat-square&label=Profile+Views)
