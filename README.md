@@ -5,11 +5,6 @@
 
 ### Data Scientist | AI & ML Engineer | Agribusiness Innovator.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/modeke)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MikeOdeke)
-[![Portfolio](https://img.shields.io/badge/Portfolio-282C34?style=for-the-badge&logo=code&logoColor=white)](https://yourwebsite.com)
-
-
 </div>
 
 ---
