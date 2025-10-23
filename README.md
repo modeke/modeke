@@ -66,7 +66,7 @@ Building expertise in **Machine Learning**, **Data Engineering**, **Healthcare A
 <tr>
 <td width="50%" bgcolor="#E8F4F8">
 
-### 🩺 Healthcare Risk Predictor
+### Healthcare Risk Predictor
 ML model identifying high-risk patients for proactive care interventions.
 
 **Stack:** Python • Scikit-learn • SQL
@@ -74,17 +74,17 @@ ML model identifying high-risk patients for proactive care interventions.
 </td>
 <td width="50%" bgcolor="#FFF4E6">
 
-### 🌾 Agribusiness Platform
+### Agribusiness Platform
 Data management system for poultry operations with real-time analytics.
 
-**Stack:** Python • Business Intelligence
+**Stack:** Python • Business Intelligence • PowerBI
 
 </td>
 </tr>
 <tr>
 <td width="50%" bgcolor="#F0F8FF">
 
-### 📊 Analytics Dashboard
+### Analytics Dashboard
 Interactive BI dashboard for patient metrics and operational insights.
 
 **Stack:** Power BI • SQL • Visualization
@@ -92,8 +92,8 @@ Interactive BI dashboard for patient metrics and operational insights.
 </td>
 <td width="50%" bgcolor="#F0FFF4">
 
-### 🏥 Health Systems Integration
-Optimizing clinic workflows with UgandaEMR and DHIS2 data systems.
+### Health Systems Integration
+Optimizing clinic workflows with UgandaEMR and DHIS2 Data & Information systems.
 
 **Stack:** OpenMRS • DHIS2 • Health Informatics
 
