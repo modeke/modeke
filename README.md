@@ -1,6 +1,7 @@
 <div align="center">
 
-# Mike Odeke
+# Mike Odeke <img src="https://flagcdn.com/w20/ug.png" width="25"/>
+
 
 ### Data Scientist | AI & ML Engineer | Agribusiness Innovator
 
