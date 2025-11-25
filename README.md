@@ -2,8 +2,7 @@
 
 # Mike Odeke <img src="https://flagcdn.com/ug.svg" width="30" alt="Ugandan Flag">
 
-
-### Data Scientist | AI & ML Engineer | Agribusiness Innovator.
+### Data Scientist | AI & ML Engineer | Agribusiness Innovator
 
 </div>
 
@@ -13,28 +12,25 @@
 
 I'm a **self-taught Data Scientist, Machine Learning & Data Engineer** passionate about turning complex data into actionable insights that drive real-world impact.
 
-Currently, I work in a **Health Systems Strengthening environment**, where I leverage **UgandaEMR (OpenMRS)** to deliver and optimize clinic processes, and **DHIS2-based systems** to manage comprehensive Health Data & Information across facilities. My work spans ** Data analysis, machine learning, predictive analytics, and Performance Monitoring, Installing, Upgrading & Maintaining EMR systems ** — Supporting Organizations in **Healthcare **sustainability** make smarter, data-driven decisions.
+Currently, I work in a **Health Systems Strengthening environment**, where I leverage **UgandaEMR (OpenMRS)** to deliver and optimize clinic processes, and **DHIS2-based systems** to manage comprehensive Health Data & Information across facilities. My work spans **Data analysis, machine learning, predictive analytics, and Performance Monitoring, Installing, Upgrading & Maintaining EMR systems** — Supporting Organizations in **Healthcare sustainability** make smarter, data-driven decisions.
 
 I believe technology is a powerful tool for solving **health, business, and everyday human problems**. I'm on a continuous learning journey, driven by curiosity and a vision to create solutions that matter. Every day is an opportunity to grow, build, and make an impact.
 
 > *"I'm not there yet, but I'm determined to get there — one model, one insight, one solution at a time."*
 
-<br>
+---
 
 ## 🎯 What I Do
 
-**💻 Current Role:** Data Management and M&E within Health Systems Strengthening. 
-Working with **UgandaEMR (OpenMRS)** and **DHIS2** to optimize clinic processes and manage Health data & Information at scale.
+**💻 Current Role:** Data Management and M&E within Health Systems Strengthening. Working with **UgandaEMR (OpenMRS)** and **DHIS2** to optimize clinic processes and manage Health data & Information at scale.
 
-**🌱 Learning Journey:** Self-taught Data Scientist & ML Engineer  
-Building expertise in **Machine Learning**, **Data Engineering**, **Healthcare Analytics**, and **Agritech Innovation**.
+**🌱 Learning Journey:** Self-taught Data Scientist & ML Engineer building expertise in **Machine Learning**, **Data Engineering**, **Healthcare Analytics**, and **Agritech Innovation**.
 
----
-
-**Core Skills:**  
+**Core Skills:**
 
 `Machine Learning` • `Predictive Modeling` • `ETL Pipelines` • `Data Architecture` • `Business Intelligence` • `Data Visualization` • `Health Informatics` • `Impact Measurement`
-<br>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -52,9 +48,9 @@ Building expertise in **Machine Learning**, **Data Engineering**, **Healthcare A
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<br>
+---
 
-### 💼 Featured Projects
+## 💼 Featured Projects
 
 <table>
 <tr>
@@ -95,8 +91,8 @@ Optimizing clinic workflows with UgandaEMR and DHIS2 Data & Information systems.
 </tr>
 </table>
 
-<br>
 ---
+
 <div align="center">
 
 ## 🤝 Let's Connect
@@ -109,6 +105,8 @@ Optimizing clinic workflows with UgandaEMR and DHIS2 Data & Information systems.
 
 </div>
 
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -117,12 +115,12 @@ Optimizing clinic workflows with UgandaEMR and DHIS2 Data & Information systems.
 
 </div>
 
+---
+
 <div align="center">
 
-### 💬 *"Turning complex data into the actionable insights that Power real change."*
-
+### 💬 *"Turning complex data into actionable insights that power real change."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=modeke&color=blueviolet&style=flat-square&label=Profile+Views)
-
 
 </div>
