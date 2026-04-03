@@ -2,7 +2,7 @@
 
 ### Data Scientist | AI & ML Engineer | eHealth
 
-[LinkedIn](https://linkedin.com/in/modeke) • [Twitter](https://x.com/MikeOdeke) • [Hashnode](https://modeke.hashnode.dev) • [Portfolio](https://yourwebsite.com)
+[LinkedIn](https://linkedin.com/in/modeke) • [Twitter](https://x.com/MikeOdeke) • [Hashnode](https://modeke.hashnode.dev) • [Email](mailto:mikeodeke@example.com)
 
 ---
 
@@ -33,15 +33,40 @@ Developing sustainable systems for real change in healthcare, agriculture, and e
 
 ---
 
-## Tech Stack
+## Tech Stack & Skills
 
-**Core Technologies:**
+### Core Technologies
 
-Python • R • SQL • TensorFlow • PyTorch
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-Scikit-learn • Power BI • Tableau • OpenMRS • DHIS2
+### Data Science & ML
 
-Git • Docker • Linux
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Data Visualization & BI
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+### Healthcare Systems
+
+![OpenMRS](https://img.shields.io/badge/OpenMRS-1CB55C?style=flat-square&logo=openmrs&logoColor=white)
+![DHIS2](https://img.shields.io/badge/DHIS2-2A6B3C?style=flat-square&logo=dhis2&logoColor=white)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -106,16 +131,6 @@ I'm always open to collaborating on:
 - Health Systems Optimization
 
 **Open to:** Full-time Data Science/ML Engineering opportunities, consulting projects, and meaningful collaborations.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=modeke&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
