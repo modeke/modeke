@@ -2,7 +2,7 @@
 
 ### Data Scientist | AI & ML Engineer | eHealth
 
-[LinkedIn](https://linkedin.com/in/modeke) • [Twitter](https://x.com/MikeOdeke) • [Hashnode](https://modeke.hashnode.dev) • [Email](mailto:mikeodeke@example.com)
+[LinkedIn](https://linkedin.com/in/modeke) • [Twitter](https://x.com/MikeOdeke) • [Hashnode](https://modeke.hashnode.dev)
 
 ---
 
